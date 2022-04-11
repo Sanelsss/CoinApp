@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CoinApp.git/static/css/main.97f12149.css",
+    "main.js": "/CoinApp.git/static/js/main.3a52b901.js",
+    "index.html": "/CoinApp.git/index.html",
+    "main.97f12149.css.map": "/CoinApp.git/static/css/main.97f12149.css.map",
+    "main.3a52b901.js.map": "/CoinApp.git/static/js/main.3a52b901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f12149.css",
+    "static/js/main.3a52b901.js"
+  ]
+}
