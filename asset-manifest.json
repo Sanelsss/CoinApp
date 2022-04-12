@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CoinApp/static/css/main.97f12149.css",
-    "main.js": "/CoinApp/static/js/main.8233fd76.js",
+    "main.js": "/CoinApp/static/js/main.3a52b901.js",
     "index.html": "/CoinApp/index.html",
     "main.97f12149.css.map": "/CoinApp/static/css/main.97f12149.css.map",
-    "main.8233fd76.js.map": "/CoinApp/static/js/main.8233fd76.js.map"
+    "main.3a52b901.js.map": "/CoinApp/static/js/main.3a52b901.js.map"
   },
   "entrypoints": [
     "static/css/main.97f12149.css",
-    "static/js/main.8233fd76.js"
+    "static/js/main.3a52b901.js"
   ]
 }
